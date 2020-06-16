@@ -1,0 +1,36 @@
+.header-container hr {
+  background-color: #ea6464;
+  border: none;
+  height: 5px;
+  margin: 0;
+}
+
+.header {
+  height: 145px;
+  display: flex;
+  align-items: center;
+  padding-left: 203px;
+}
+
+.rectangle {
+  background-color: #c4c4c4;
+  width: 113px;
+  height: 100px;
+}
+
+.header-menu {
+  padding-left: 80px;
+  padding-right: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.header-menu span {
+  margin-right: 15px;
+}
+
+.contact-container {
+  height: 120px;
+  width: 397px;
+  border-left: 3px solid #e5e5e5;
+}
