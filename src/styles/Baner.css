@@ -1,0 +1,20 @@
+.baner-container {
+  height: 560px;
+  background-image: url("../images/baner1.png");
+  color: white;
+}
+
+.baner {
+  padding: 120px 220px;
+}
+
+.baner-container h2 span {
+  font-size: 72px;
+  display: block;
+}
+
+.baner-desc {
+  font-size: 18px;
+  width: 961px;
+  margin-top: 50px;
+}
