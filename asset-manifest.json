@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/netgraf/static/css/main.a6d50ec6.chunk.css",
+    "main.js": "/netgraf/static/js/main.f72efdf3.chunk.js",
+    "main.js.map": "/netgraf/static/js/main.f72efdf3.chunk.js.map",
+    "runtime-main.js": "/netgraf/static/js/runtime-main.b4f7e3c1.js",
+    "runtime-main.js.map": "/netgraf/static/js/runtime-main.b4f7e3c1.js.map",
+    "static/js/2.91fcf717.chunk.js": "/netgraf/static/js/2.91fcf717.chunk.js",
+    "static/js/2.91fcf717.chunk.js.map": "/netgraf/static/js/2.91fcf717.chunk.js.map",
+    "index.html": "/netgraf/index.html",
+    "precache-manifest.89026c1aae7b1d097244ae6f7c7c968c.js": "/netgraf/precache-manifest.89026c1aae7b1d097244ae6f7c7c968c.js",
+    "service-worker.js": "/netgraf/service-worker.js",
+    "static/css/main.a6d50ec6.chunk.css.map": "/netgraf/static/css/main.a6d50ec6.chunk.css.map",
+    "static/js/2.91fcf717.chunk.js.LICENSE.txt": "/netgraf/static/js/2.91fcf717.chunk.js.LICENSE.txt",
+    "static/media/Group.svg": "/netgraf/static/media/Group.a879c7c9.svg",
+    "static/media/baner1.png": "/netgraf/static/media/baner1.bf8a312b.png",
+    "static/media/basket.svg": "/netgraf/static/media/basket.dbbdbf2a.svg",
+    "static/media/search.svg": "/netgraf/static/media/search.3f5f4967.svg",
+    "static/media/Header.css": "/netgraf/static/media/telephone.79439faa.svg",
+    "static/media/verification.svg": "/netgraf/static/media/verification.0981b137.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4f7e3c1.js",
+    "static/js/2.91fcf717.chunk.js",
+    "static/css/main.a6d50ec6.chunk.css",
+    "static/js/main.f72efdf3.chunk.js"
+  ]
+}
