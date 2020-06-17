@@ -1,0 +1,181 @@
+@media only screen and (min-width: 1200px) and (max-width: 1650px) {
+  .header {
+    width: 1200px;
+  }
+
+  .options-container {
+    padding-left: 20px;
+  }
+
+  .options-container img {
+    margin-left: 20px;
+  }
+
+  .red-button {
+    padding: 8px 8px;
+    font-size: 14px;
+  }
+  .menu-container {
+    width: 1200px;
+    margin-left: -600px;
+  }
+
+  .header-menu {
+    width: 380px;
+    padding: 0;
+    margin-left: 20px;
+  }
+}
+
+@media only screen and (min-width: 900px) and (max-width: 1200px) {
+  .options-container {
+    padding-left: 20px;
+  }
+
+  .options-container img {
+    margin-left: 20px;
+  }
+
+  .red-button {
+    padding: 8px 8px;
+    font-size: 14px;
+  }
+  .menu-container {
+    width: 900px;
+    margin-left: -450px;
+  }
+  .menu-left-side {
+    width: 30%;
+  }
+  .middle-menu-content {
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    margin-left: 50px;
+  }
+  .contact-container {
+    border: none;
+    width: 100%;
+  }
+  .header {
+    justify-content: center;
+  }
+
+  .header-menu {
+    padding: 0;
+    width: 100%;
+  }
+  .phone-photo {
+    margin: 0;
+  }
+  .baner-header {
+    font-size: 50px;
+  }
+  .baner-desc {
+    font-size: 16px;
+    width: 500px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .red-button {
+    padding: 8px 8px;
+    font-size: 14px;
+  }
+  .header-menu {
+    padding: 0;
+    width: 100%;
+  }
+  .menu-container {
+    height: 60px;
+    width: 600px;
+    margin-left: -300px;
+  }
+  .middle-menu-content {
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+  }
+  .menu-left-side {
+    width: 35%;
+    font-size: 13px;
+  }
+
+  .contact-container {
+    border: none;
+  }
+  .menu-right-side {
+    width: 65%;
+  }
+
+  .menu-right-side .red-button {
+    margin-right: 10px;
+  }
+
+  .menu-right-side img {
+    width: 25px;
+    height: 25px;
+  }
+
+  .header-main-content {
+    flex-direction: column;
+    margin-left: 50px;
+  }
+  .options-container {
+    width: 400px;
+    padding: 0;
+  }
+  .header {
+    justify-content: center;
+  }
+  .baner-header {
+    font-size: 50px;
+  }
+  .baner-desc {
+    font-size: 14px;
+    width: 430px;
+    margin-top: 30px;
+  }
+  .d-none {
+    display: inline !important;
+  }
+  .rectangle {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .menu-container {
+    flex-direction: column-reverse;
+    justify-content: space-evenly;
+    height: 120px;
+    bottom: -55px;
+  }
+  .menu-right-side {
+    height: 50%;
+    width: 50%;
+  }
+  .header {
+    padding-bottom: 100px;
+  }
+  .baner-header {
+    font-size: 40px;
+  }
+  .baner-desc {
+    font-size: 13px;
+    width: 300px;
+  }
+  .red-button {
+    padding: 5px 5px;
+    font-size: 12px;
+  }
+  .contact-info {
+    margin: 0 15px;
+    width: 140px;
+  }
+  .contact-container {
+    width: 400px;
+  }
+  .middle-menu-content {
+  }
+}

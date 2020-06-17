@@ -14,33 +14,37 @@ const Header = () => {
         <hr />
         <div className="header">
           <div className="rectangle"></div>
-          <div className="header-menu">
-            <span>O Nas</span>
-            <span>Aktualności</span>
-            <span>Koszty dostawy</span>
-            <Button value="Promocje" />
-          </div>
-          <div className="contact-container">
-            <div className="phone-photo"></div>
-            <div className="contact-info">
-              <span className="contact-desc">Pomoc w zakupach:</span>
-              <span className="contact-number">94 375 3821</span>
+          <div className="header-main-content">
+            <div className="middle-menu-content">
+              <div className="header-menu">
+                <span>O Nas</span>
+                <span>Aktualności</span>
+                <span>Koszty dostawy</span>
+                <Button value="Promocje" />
+              </div>
+              <div className="contact-container">
+                <div className="phone-photo"></div>
+                <div className="contact-info">
+                  <span className="contact-desc">Pomoc w zakupach:</span>
+                  <span className="contact-number">94 375 3821</span>
+                </div>
+                <Button value="Odwiedź nas" />
+              </div>
             </div>
-            <Button value="Odwiedź nas" />
-          </div>
-          <div className="options-container">
-            <div className="options-image-container">
-              <img src={groupsPhoto} alt="groups"></img>
-            </div>
+            <div className="options-container">
+              <div className="options-image-container">
+                <img src={groupsPhoto} alt="groups"></img>
+              </div>
 
-            <div className="options-image-container">
-              <img src={verificationPhoto} alt="verification"></img>
-              <ActivityCircle value={99} />
-            </div>
+              <div className="options-image-container">
+                <img src={verificationPhoto} alt="verification"></img>
+                <ActivityCircle value={99} />
+              </div>
 
-            <div className="options-image-container">
-              <img src={basketPhoto} alt="basket"></img>
-              <ActivityCircle value={99} />
+              <div className="options-image-container">
+                <img src={basketPhoto} alt="basket"></img>
+                <ActivityCircle value={99} />
+              </div>
             </div>
           </div>
         </div>
